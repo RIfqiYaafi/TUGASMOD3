@@ -22,6 +22,7 @@ public class Autocomplete {
     public void tampilkanNilai() {
         System.out.println("Nilai angka: " + angka);
         System.out.println("Nilai teks: " + teks);
+        System.out.println("Test");
     }
 
     public static void main(String[] args) {
